@@ -1,8 +1,6 @@
 ## Welcome to Shepherd Code
 
-Shepherd Code belongs to computer science students and faculty at [Shepherd University] (https://www.shepherd.edu).
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Shepherd Code used by computer science students and faculty at [Shepherd University] (https://www.shepherd.edu). Shepherd Code is an educational organization on [GitHub] (GitHub.com).
 
 ### Markdown
 
