@@ -1,6 +1,6 @@
 ## Welcome to Shepherd Code
 
-Shepherd Code used by computer science students and faculty at [Shepherd University] (https://www.shepherd.edu). Shepherd Code is an educational organization on [GitHub] (GitHub.com).
+Shepherd Code used by computer science students and faculty at [Shepherd University](https://www.shepherd.edu). Shepherd Code is an educational organization on [GitHub](GitHub.com).
 
 ### Markdown
 
